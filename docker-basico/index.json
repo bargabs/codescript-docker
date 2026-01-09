@@ -17,14 +17,7 @@
       },
       {
         "title": "Builds e imágenes",
-        "text": "steps/step2.md",
-        "assets": {
-          "host01": [
-            {"file": "package.json", "target": "/home/ubuntu/node-app/"},
-            {"file": "app.js", "target": "/home/ubuntu/node-app/"},
-            {"file": "Dockerfile", "target": "/home/ubuntu/node-app/"}
-          ]
-        }
+        "text": "steps/step2.md"
       },
       {
         "title": "Volúmenes",
