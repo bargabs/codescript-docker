@@ -2,7 +2,7 @@
 
 Aprenderás a crear imágenes personalizadas y usar Dockerfile.
 
-Ya tienes preparada una aplicación Node.js simple en `/root/node-app/` con:
+Ya tienes preparada una aplicación Node.js simple en `/home/ubuntu/node-app/` con:
 - `app.js`: servidor Express básico
 - `package.json`: dependencias
 - `Dockerfile`: configuración de la imagen
@@ -10,7 +10,7 @@ Ya tienes preparada una aplicación Node.js simple en `/root/node-app/` con:
 ## Paso 1: Revisar los archivos
 
 ```bash
-cd /root/node-app
+cd /home/ubuntu/node-app
 ls -la
 cat Dockerfile
 ```{{exec}}

@@ -20,9 +20,9 @@
         "text": "steps/step2.md",
         "assets": {
           "host01": [
-            {"file": "package.json", "target": "/root/node-app/"},
-            {"file": "app.js", "target": "/root/node-app/"},
-            {"file": "Dockerfile", "target": "/root/node-app/"}
+            {"file": "package.json", "target": "/home/ubuntu/node-app/"},
+            {"file": "app.js", "target": "/home/ubuntu/node-app/"},
+            {"file": "Dockerfile", "target": "/home/ubuntu/node-app/"}
           ]
         }
       },
