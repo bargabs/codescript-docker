@@ -1,0 +1,35 @@
+{
+  "title": "Docker desde 0 hasta Compose",
+  "description": "Aprende Docker desde los fundamentos hasta Docker Compose con esta práctica guiada.",
+  "difficulty": "beginner",
+  "time": "1h",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Comandos básicos de Docker",
+        "text": "steps/step1.md"
+      },
+      {
+        "title": "Builds e imágenes",
+        "text": "steps/step2.md"
+      },
+      {
+        "title": "Volúmenes",
+        "text": "steps/step3.md"
+      },
+      {
+        "title": "Docker Compose",
+        "text": "steps/step4.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}
